@@ -16,7 +16,7 @@ aplicacion movil para asesoramiento en la recoleccion de basuras para personas n
 #Funciones básicas de la app:
 -El usuario debe generar un login 
 -localizacion de centros de acopio
--Identificacion de tipo de usuario
+-Identificacion de tipo de usuario:
 Usuario
 recolector
 -recomendaciones para un buen reciclaje
