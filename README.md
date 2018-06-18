@@ -1,7 +1,7 @@
 # UNL005-6app
 Es un proyecto dentro del marco de generacion de capacidades en el ecosistema digital en Bogota.
 para el reciclaje
-# yo reciclaje
+# yo reciclo
 ## Integrantes
 -santiago vargas
 -harold gomez
